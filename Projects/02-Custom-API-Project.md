@@ -62,7 +62,7 @@ It's time to get creative and write the authenticated API of your dreams!
 
 A **sample daily outline** is provided to assist you in planning your sprint:
 
-* **Day 07**: ~~Brainstorm ideas for your API.~~
+* **~~Day 07~~**: ~~Brainstorm ideas for your API.~~
 * **Day 08**: ~~Write API proposal.~~
 * **Day 09**: ~~Write API tests.~~
 * **Day 10**: Continue writing API tests.
